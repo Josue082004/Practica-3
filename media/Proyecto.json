@@ -1,0 +1,152 @@
+[
+    {
+        "idProyecto": 1,
+        "nombre": "Proyecto 1",
+        "fechaInicio": "2023-01-01",
+        "fechaFin": "2023-12-31",
+        "estado": "Activo",
+        "costo": 100000.0,
+        "produccionDiaria": 500.0,
+        "inversionTotal": 200000.0
+    },
+    {
+        "idProyecto": 2,
+        "nombre": "Proyecto 1",
+        "fechaInicio": "2023-01-01",
+        "fechaFin": "2023-12-31",
+        "estado": "Activo",
+        "costo": 100000.0,
+        "produccionDiaria": 500.0,
+        "inversionTotal": 200000.0
+    },
+    {
+        "idProyecto": 3,
+        "nombre": "Hidroelectrica Chinguilanchi",
+        "fechaInicio": "2024-01-01",
+        "fechaFin": "2026-12-31",
+        "estado": "Activo",
+        "costo": 5.4E8,
+        "produccionDiaria": 100000.0,
+        "inversionTotal": 8.0E8
+    },
+    {
+        "idProyecto": 4,
+        "nombre": "Parque Eolico",
+        "fechaInicio": "2017-05-01",
+        "fechaFin": "2020-11-31",
+        "estado": "Finalizado",
+        "costo": 500000.0,
+        "produccionDiaria": 1200.0,
+        "inversionTotal": 700000.0
+    },
+    {
+        "idProyecto": 5,
+        "nombre": "Parque Eolico Lomas",
+        "fechaInicio": "2018-05-01",
+        "fechaFin": "2022-11-31",
+        "estado": "Finalizado",
+        "costo": 550000.0,
+        "produccionDiaria": 1400.0,
+        "inversionTotal": 600000.0
+    },
+    {
+        "idProyecto": 6,
+        "nombre": "Parque Eolico Tupac",
+        "fechaInicio": "2015-05-01",
+        "fechaFin": "2022-11-31",
+        "estado": "Finalizado",
+        "costo": 550000.0,
+        "produccionDiaria": 1400.0,
+        "inversionTotal": 600000.0
+    },
+    {
+        "idProyecto": 7,
+        "nombre": "Hdroelectrica Sur",
+        "fechaInicio": "2019-05-01",
+        "fechaFin": "2025-11-31",
+        "estado": "Activa",
+        "costo": 550000.0,
+        "produccionDiaria": 1400.0,
+        "inversionTotal": 600000.0
+    },
+    {
+        "idProyecto": 8,
+        "nombre": "Hdroelectrica Norte",
+        "fechaInicio": "2019-05-01",
+        "fechaFin": "2025-11-31",
+        "estado": "Activa",
+        "costo": 550000.0,
+        "produccionDiaria": 1400.0,
+        "inversionTotal": 600000.0
+    },
+    {
+        "idProyecto": 9,
+        "nombre": "Hdroelectrica Oeste",
+        "fechaInicio": "2019-05-01",
+        "fechaFin": "2025-11-31",
+        "estado": "Activa",
+        "costo": 550000.0,
+        "produccionDiaria": 1400.0,
+        "inversionTotal": 600000.0
+    },
+    {
+        "idProyecto": 10,
+        "nombre": "Hdroelectrica Este",
+        "fechaInicio": "2019-05-01",
+        "fechaFin": "2025-11-31",
+        "estado": "Activa",
+        "costo": 550000.0,
+        "produccionDiaria": 1400.0,
+        "inversionTotal": 600000.0
+    },
+    {
+        "idProyecto": 11,
+        "nombre": "Hdroelectrica Ciudad de Catamayo",
+        "fechaInicio": "2019-05-01",
+        "fechaFin": "2025-11-31",
+        "estado": "Activa",
+        "costo": 550000.0,
+        "produccionDiaria": 1400.0,
+        "inversionTotal": 600000.0
+    },
+    {
+        "idProyecto": 12,
+        "nombre": "Hdroelectrica Universitaria",
+        "fechaInicio": "2019-05-01",
+        "fechaFin": "2025-11-31",
+        "estado": "Activa",
+        "costo": 550000.0,
+        "produccionDiaria": 1400.0,
+        "inversionTotal": 600000.0
+    },
+    {
+        "idProyecto": 13,
+        "nombre": "Eolico Dos Puentes",
+        "fechaInicio": "2019-05-01",
+        "fechaFin": "2025-11-31",
+        "estado": "Activa",
+        "costo": 550000.0,
+        "produccionDiaria": 1400.0,
+        "inversionTotal": 600000.0
+    },
+    {
+        "idProyecto": 14,
+        "nombre": "Eolico Jipiro Alto",
+        "fechaInicio": "2019-05-01",
+        "fechaFin": "2025-11-31",
+        "estado": "Activa",
+        "costo": 550000.0,
+        "produccionDiaria": 1400.0,
+        "inversionTotal": 600000.0
+    },
+    {
+        "idProyecto": 15,
+        "nombre": "Eolico Jipiro Bajo",
+        "fechaInicio": "2019-05-01",
+        "fechaFin": "2025-11-31",
+        "estado": "Activa",
+        "costo": 550000.0,
+        "produccionDiaria": 1400.0,
+        "inversionTotal": 600000.0
+    }
+]
